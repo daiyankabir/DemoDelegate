@@ -1,0 +1,6 @@
+C:\Users\Zahid\Desktop\New folder\DemoApplication\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe.config
+C:\Users\Zahid\Desktop\New folder\DemoApplication\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Desktop\New folder\DemoApplication\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.pdb
